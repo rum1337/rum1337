@@ -1,7 +1,8 @@
-![Cover(5)](media/banner.png)
-
+```console
+miyasaki@rumi:~$ wh1rly > README.md
+```
+> ## Hello, World!
 - 💻 I’m currently working as **Freelancer**
-- 👯 I’m looking to collaborate on **Next.js and Node JS**
 - 💬 You can ask me about penetration testing, programming stuffs as an **Intermediate Level**
 - 📫 How to reach me: edwardnguyen189@gmail.com
 
